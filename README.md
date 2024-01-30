@@ -1,3 +1,3 @@
 Mi nombre es Gabriela Suin
-Mi correo chivigavihotmail.com
+Mi correo chivigavi@hotmail.com
 # ejercicioPOO
